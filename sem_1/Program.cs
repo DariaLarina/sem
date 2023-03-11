@@ -7,3 +7,4 @@ while (A <= N){
        Console.Write($"{A}");
        A++;
 }
+// комментарий
