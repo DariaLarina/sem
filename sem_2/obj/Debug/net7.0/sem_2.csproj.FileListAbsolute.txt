@@ -1,0 +1,15 @@
+C:\Users\Дарья\Desktop\seminar\sem_2\bin\Debug\net7.0\sem_2.exe
+C:\Users\Дарья\Desktop\seminar\sem_2\bin\Debug\net7.0\sem_2.deps.json
+C:\Users\Дарья\Desktop\seminar\sem_2\bin\Debug\net7.0\sem_2.runtimeconfig.json
+C:\Users\Дарья\Desktop\seminar\sem_2\bin\Debug\net7.0\sem_2.dll
+C:\Users\Дарья\Desktop\seminar\sem_2\bin\Debug\net7.0\sem_2.pdb
+C:\Users\Дарья\Desktop\seminar\sem_2\obj\Debug\net7.0\sem_2.csproj.AssemblyReference.cache
+C:\Users\Дарья\Desktop\seminar\sem_2\obj\Debug\net7.0\sem_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Дарья\Desktop\seminar\sem_2\obj\Debug\net7.0\sem_2.AssemblyInfoInputs.cache
+C:\Users\Дарья\Desktop\seminar\sem_2\obj\Debug\net7.0\sem_2.AssemblyInfo.cs
+C:\Users\Дарья\Desktop\seminar\sem_2\obj\Debug\net7.0\sem_2.csproj.CoreCompileInputs.cache
+C:\Users\Дарья\Desktop\seminar\sem_2\obj\Debug\net7.0\sem_2.dll
+C:\Users\Дарья\Desktop\seminar\sem_2\obj\Debug\net7.0\refint\sem_2.dll
+C:\Users\Дарья\Desktop\seminar\sem_2\obj\Debug\net7.0\sem_2.pdb
+C:\Users\Дарья\Desktop\seminar\sem_2\obj\Debug\net7.0\sem_2.genruntimeconfig.cache
+C:\Users\Дарья\Desktop\seminar\sem_2\obj\Debug\net7.0\ref\sem_2.dll
